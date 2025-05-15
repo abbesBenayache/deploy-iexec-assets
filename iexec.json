@@ -21,7 +21,7 @@
   "dataset": {
     "owner": "0x6664438E8e466Cc6fB4489f3BBf004870a34A567",
     "name": "my-dataset-character:0.0.1-15051551",
-    "multiaddr": "https://github.com/iExecBlockchainComputing/iexec-deploy-kit/raw/main/datasets/encrypted/character.enc",
+    "multiaddr": "https://github.com/abbesBenayache/deploy-iexec-assets/raw/main/datasets/encrypted/character.enc",
     "checksum": "0xb8f663dfd48d3ff33f045b32d5d8a24d7ee26fbea40360aab1b9cfb4f9d3069b"
   }
 }
