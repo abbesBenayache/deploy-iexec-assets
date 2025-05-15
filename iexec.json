@@ -1,0 +1,27 @@
+{
+  "description": "My iExec resource description, must be at least 150 chars long in order to pass the validation checks. Describe your application, dataset or workerpool to your users",
+  "license": "MIT",
+  "author": "el_paypes",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.png",
+  "buyConf": {},
+  "app": {
+    "owner": "0x6664438E8e466Cc6fB4489f3BBf004870a34A567",
+    "name": "iexec-eliza-agent:0.0.1-150925",
+    "type": "DOCKER",
+    "multiaddr": "elpaypes/eliza-agent:0.0.1",
+    "checksum": "0x18b1ab316271d572cfc0aeef0a6b069cf317ba9f34374f0fef6af45eaf975443",
+    "mrenclave": {
+      "framework": "TDX"
+    }
+  },
+  "dataset": {
+    "owner": "0x6664438E8e466Cc6fB4489f3BBf004870a34A567",
+    "name": "my-dataset-character:0.0.1-15051551",
+    "multiaddr": "https://github.com/iExecBlockchainComputing/iexec-deploy-kit/raw/main/datasets/encrypted/character.enc",
+    "checksum": "0x80debfba82f8d6d70eef2a6a8d3f72180ccba1a3e51d55ad6188291b3c233b5f"
+  }
+}
